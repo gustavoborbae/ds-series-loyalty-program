@@ -14,6 +14,18 @@
 8. Qual a garantia que o programa Insiders é melhor que o restante da base ?
 9. Quais ações o time de marketing pode realizar para aumentar o faturamento?
 
+
+### O conjunto de dados inclui as seguintes informações:
+
+- Invoice Number: identificador único de cada transação.
+- Stock Code Product: código do item.
+- Description Product: nome do item
+- Quantity: A quantidade de cada item comprado por transação.
+- Invoice Date: O dia em que a transação ocorreu
+- Unit Price: Preço do produto por unidade
+- Customer ID: identificador único do cliente
+- Country: O nome do país que o cliente reside
+
 ### Roteiro para resolução do problema:
 
 - Explore os Dados usando ferramentas e testes Estatísticos com o objetivo de encontrar inconsistências dos dados e tratar possíveis dados faltantes.
